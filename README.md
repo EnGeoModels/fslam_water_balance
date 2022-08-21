@@ -7,4 +7,4 @@ The hydrological model that will be described here is a continuous model (long-t
 ![hydro_model](https://user-images.githubusercontent.com/25410950/185788683-58c758c2-cb91-4a0e-8601-7899d7dad66e.PNG)
 **Figure 1.Conceptual representation of three-layers hydrological model**
 
-$ V=d/t $
+$$ V=d/t $$
